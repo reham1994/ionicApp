@@ -1,2 +1,3 @@
 # ionicApp
 application
+project notes
